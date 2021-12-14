@@ -29,6 +29,7 @@ Refs:
 
 # Monolog
 
+- https://logtail.com/tutorials/how-to-start-logging-with-monolog/
 - https://silex.symfony.com/doc/2.0/providers/monolog.html
 - https://www.youtube.com/watch?v=cePgCwNoGF8
 	- https://github.com/Seldaek/monolog
