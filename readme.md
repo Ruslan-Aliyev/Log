@@ -36,3 +36,9 @@ Refs:
 
 1. `composer require monolog/monolog`
 2. Do as in `index.php`
+
+# In Frameworks
+
+- WP: https://github.com/atabegruslan/WP_CRUD/blob/master/README.md#turn-off-warnings
+- Laravel: https://github.com/Ruslan-Aliyev/Laravel8_Newest_Notes#logging
+
