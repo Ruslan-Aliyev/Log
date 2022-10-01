@@ -11,6 +11,7 @@ In `php.ini`
 - Set `error_log` to 
 	- either `syslog` - typically on Linux: `/var/log/syslog`
 	- or a _specific file path_ - default on Linux: `/var/log/{server}/error.log`
+	- in Windows: `C:\xampp\apache\logs\error.log`. You can easily display the last logs by `tail -f .\error.log`.
 
 After editing the `php.ini`, you can use `<?php php_info(); ?>` and check `error_log` to see the path of the log file.
 
