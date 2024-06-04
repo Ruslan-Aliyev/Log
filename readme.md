@@ -19,6 +19,15 @@ Other useful log functions in PHP:
 - `error_reporting(E_ALL)` or whatever other level.
 - `error_log(msg, type, dest, ...)` to make a error.
 
+In PHP: Turn on the error display to the max:
+```php
+<?php 
+
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+```
+
 Refs:
 
 - https://rollbar.com/guides/where-are-php-errors-logged/
