@@ -52,5 +52,5 @@ Refs:
 - WP: 
 	- https://github.com/atabegruslan/WP_CRUD/blob/master/README.md#turn-off-warnings
 	- https://github.com/atabegruslan/WP_CRUD/blob/master/README.md#logging
-- Laravel: https://github.com/Ruslan-Aliyev/Laravel8_Newest_Notes#logging
+- Laravel: https://github.com/atabegruslan/Others/blob/master/Development/laravel.md#logging
 
